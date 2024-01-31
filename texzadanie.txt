@@ -9,5 +9,5 @@ texzadanie
 <<<<<<< HEAD
 проljk;tybt cktletn
 =======
-продолжение1
+продолжение12
 >>>>>>> bbf2e23a619df9e01eb90c7eb7299f761059fe4d
